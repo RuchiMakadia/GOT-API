@@ -1,0 +1,22 @@
+PODS:
+  - DOButton (1.2.0)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+
+DEPENDENCIES:
+  - DOButton
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DOButton
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  DOButton: efc441446dfd53fd5fc68ae4408d17d29c632607
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+
+PODFILE CHECKSUM: f3a3f3caa3752475e7943b914473efe1bb585eac
+
+COCOAPODS: 1.6.1
